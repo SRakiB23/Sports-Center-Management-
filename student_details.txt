@@ -1,0 +1,357 @@
+STUDENT ID: S1
+NAME: Toh Han Lun
+ADDRESS: Negara Simbelan
+CONTACT NUMBER: 0193556874
+EMAIL: toh20@gmail.com
+SPORT: Swimming
+
+STUDENT ID: S2
+NAME: Marina Fujimoto
+ADDRESS: bukit bintang,KL
+CONTACT NUMBER: 018974625
+EMAIL: fujimoto@gmail.com
+SPORT: Swimming
+
+STUDENT ID: S3
+NAME: Cho Khai
+ADDRESS: 61000,Cheras,KL
+CONTACT NUMBER: 019564485
+EMAIL: cho@yahoo.com
+SPORT: Swimming
+
+STUDENT ID: S4
+NAME: Xin fu yang
+ADDRESS: ampang 68100, KL
+CONTACT NUMBER: 01975645
+EMAIL: xin21@outlook.com
+SPORT: Swimming
+
+STUDENT ID: S5
+NAME: Ahmed Yosuf
+ADDRESS: bukit jalil, KL
+CONTACT NUMBER: 0179458753
+EMAIL: ahmed@gmail.com
+SPORT: Swimming
+
+STUDENT ID: S6
+NAME: Lim Hao
+ADDRESS: selangor
+CONTACT NUMBER: 019325467
+EMAIL: lim20@yahoo.com
+SPORT: Swimming
+
+STUDENT ID: S7
+NAME: Ng Wei Jun
+ADDRESS: Sentul,KL
+CONTACT NUMBER: 0145673485
+EMAIL: jun@outlook.com
+SPORT: Badminton
+
+STUDENT ID: S8
+NAME: Justin Lim
+ADDRESS: Titiwangsha,KL
+CONTACT NUMBER: 0184567985
+EMAIL: justin22@gmail.com
+SPORT: Badminton
+
+STUDENT ID: S9
+NAME: Mari Raimbekoba
+ADDRESS: Midvalley,KL
+CONTACT NUMBER: 013469753
+EMAIL: mari22@gmail.com
+SPORT: Badminton
+
+STUDENT ID: S10
+NAME: Catlin chong
+ADDRESS: GorgeTown,ipoh
+CONTACT NUMBER: 012154684
+EMAIL: catlin@yahoo.com
+SPORT: Badminton
+
+STUDENT ID: S11
+NAME: Chong ka
+ADDRESS: Ampang
+CONTACT NUMBER: 0193558756
+EMAIL: ching20@gmail.com
+SPORT: Badminton
+
+STUDENT ID: S12
+NAME: Ziyad Khan
+ADDRESS: bukit nanas,KL
+CONTACT NUMBER: 0189748785
+EMAIL: khan@gmail.com
+SPORT: Archery
+
+STUDENT ID: S13
+NAME: Tan Ming
+ADDRESS: 62000,Cheras
+CONTACT NUMBER: 017584485
+EMAIL: ming@yahoo.com
+SPORT: Archery
+
+STUDENT ID: S14
+NAME: Khalid Nasir
+ADDRESS: ampang 68800
+CONTACT NUMBER: 019756458
+EMAIL: khalid@outlook.com
+SPORT: Archery
+
+STUDENT ID: S15
+NAME: Yap Sing
+ADDRESS: bukit jalil, KL
+CONTACT NUMBER: 0179400053
+EMAIL: ning@gmail.com
+SPORT: Archery
+
+STUDENT ID: S16
+NAME: Arshad Khalid
+ADDRESS: Selangor
+CONTACT NUMBER: 011525467
+EMAIL: arshad20@yahoo.com
+SPORT: Archery
+
+STUDENT ID: S17
+NAME: Syed Ozair
+ADDRESS: Titiwangsha,KL
+CONTACT NUMBER: 014511485
+EMAIL: syed@outlook.com
+SPORT: Archery
+
+STUDENT ID: S18
+NAME: Bishal Sarkar
+ADDRESS: bukit jalil,KL
+CONTACT NUMBER: 01842327985
+EMAIL: bishal22@gmail.com
+SPORT: Football
+
+STUDENT ID: S19
+NAME: Raja Zarifah
+ADDRESS: Ampang,KL
+CONTACT NUMBER: 013488753
+EMAIL: zarifa@gmail.com
+SPORT: Football
+
+STUDENT ID: S20
+NAME: Ong Fo
+ADDRESS: GorgeTown,ipoh
+CONTACT NUMBER: 0121474684
+EMAIL: ong21@yahoo.com
+SPORT: Football
+
+STUDENT ID: S21
+NAME: Sameer Sharif
+ADDRESS: puchong
+CONTACT NUMBER: 011458753
+EMAIL: sameer@gmail.com
+SPORT: Football
+
+STUDENT ID: S22
+NAME: Lee Kai
+ADDRESS: GorgeTown,ipoh
+CONTACT NUMBER: 0121487684
+EMAIL: lee20@yahoo.com
+SPORT: Football
+
+STUDENT ID: S23
+NAME: Go Yee
+ADDRESS: bukit jalil,KL
+CONTACT NUMBER: 01742327985
+EMAIL: go40@gmail.com
+SPORT: Gymnastics
+
+STUDENT ID: S24
+NAME: Ang Pou
+ADDRESS: johor
+CONTACT NUMBER: 013488747
+EMAIL: ang22@gmail.com
+SPORT: Gymnastics
+
+STUDENT ID: S25
+NAME: Voon Zhen
+ADDRESS: GorgeTown,ipoh
+CONTACT NUMBER: 012141184
+EMAIL: voon30@yahoo.com
+SPORT: Gymnastics
+
+STUDENT ID: S26
+NAME: Honda
+ADDRESS: puchong
+CONTACT NUMBER: 011558753
+EMAIL: honda23@gmail.com
+SPORT: Gymnastics
+
+STUDENT ID: S27
+NAME: Chu Yee
+ADDRESS: Gombak
+CONTACT NUMBER: 0121484484
+EMAIL: chu19@yahoo.com
+SPORT: Gymnastics
+
+STUDENT ID: S28
+NAME: Nurun Nadia
+ADDRESS: Petaling jaya
+CONTACT NUMBER: 017437985
+EMAIL: nadia30@gmail.com
+SPORT: Volleyball
+
+STUDENT ID: S29
+NAME: Abang Nor
+ADDRESS: johor
+CONTACT NUMBER: 013488789
+EMAIL: abang33@gmail.com
+SPORT: Volleyball
+
+STUDENT ID: S30
+NAME: NG lin
+ADDRESS: GorgeTown,ipoh
+CONTACT NUMBER: 014118444
+EMAIL: lin30@yahoo.com
+SPORT: Volleyball
+
+STUDENT ID: S31
+NAME: Mostak
+ADDRESS: puchong
+CONTACT NUMBER: 011897753
+EMAIL: mostak430@gmail.com
+SPORT: Volleyball
+
+STUDENT ID: S32
+NAME: khun Meng
+ADDRESS: Gombak
+CONTACT NUMBER: 012144484
+EMAIL: meng@yahoo.com
+SPORT: Volleyball
+
+STUDENT ID: S33
+NAME: Nurun Nadia
+ADDRESS: Petaling jaya
+CONTACT NUMBER: 017437985
+EMAIL: nadia30@gmail.com
+SPORT: Basketball
+
+STUDENT ID: S34
+NAME: Lau
+ADDRESS: johor
+CONTACT NUMBER: 013488789
+EMAIL: lau78@gmail.com
+SPORT: Basketball
+
+STUDENT ID: S35
+NAME: Devisha
+ADDRESS: GorgeTown,ipoh
+CONTACT NUMBER: 0222444
+EMAIL: devisha30@yahoo.com
+SPORT: Basketball
+
+STUDENT ID: S36
+NAME: Mostak
+ADDRESS: puchong
+CONTACT NUMBER: 011897753
+EMAIL: mostak430@gmail.com
+SPORT: Basketball
+
+STUDENT ID: S37
+NAME: khun Meng
+ADDRESS: Gombak
+CONTACT NUMBER: 012144484
+EMAIL: meng@yahoo.com
+SPORT: Basketball
+
+STUDENT ID: S38
+NAME: Ryan Ek
+ADDRESS: Petaling jaya
+CONTACT NUMBER: 017433985
+EMAIL: ryan15@gmail.com
+SPORT: Cricket
+
+STUDENT ID: S39
+NAME: Jeeva
+ADDRESS: johor
+CONTACT NUMBER: 01777789
+EMAIL: jeeva34@gmail.com
+SPORT: Cricket
+
+STUDENT ID: S40
+NAME: Youssef
+ADDRESS: Ampang
+CONTACT NUMBER: 02224448
+EMAIL: youssef25@yahoo.com
+SPORT: Cricket
+
+STUDENT ID: S41
+NAME: Humaira 
+ADDRESS: puchong
+CONTACT NUMBER: 011895553
+EMAIL: humaira@gmail.com
+SPORT: Cricket
+
+STUDENT ID: S42
+NAME: Daniel Bin
+ADDRESS: Gombak
+CONTACT NUMBER: 012944484
+EMAIL: daniel21@yahoo.com
+SPORT: Cricket
+
+STUDENT ID: S43
+NAME: Albert
+ADDRESS: Gombak
+CONTACT NUMBER: 019878754
+EMAIL: albert41@yahoo.com
+SPORT: Tennis
+
+STUDENT ID: S44
+NAME: Liang Feng
+ADDRESS: Petaling jaya
+CONTACT NUMBER: 017433985
+EMAIL: liang15@gmail.com
+SPORT: Tennis
+
+STUDENT ID: S45
+NAME: Bilal Akter
+ADDRESS: johor
+CONTACT NUMBER: 01777789
+EMAIL: bilal34@gmail.com
+SPORT: Tennis
+
+STUDENT ID: S46
+NAME: Sabrina
+ADDRESS: Ampang
+CONTACT NUMBER: 02224448
+EMAIL: sabrina19@yahoo.com
+SPORT: Table Tennis 
+
+STUDENT ID: S47
+NAME: Edmund lip 
+ADDRESS: puchong
+CONTACT NUMBER: 011895553
+EMAIL: edmund20@gmail.com
+SPORT: Table Tennis
+
+STUDENT ID: S48
+NAME: Fun Yee
+ADDRESS: Gombak
+CONTACT NUMBER: 012944484
+EMAIL: fun30@yahoo.com
+SPORT: Table Tennis
+
+STUDENT ID: S49
+NAME: Suhail Latif
+ADDRESS: Gombak
+CONTACT NUMBER: 012944484
+EMAIL: sohail@yahoo.com
+SPORT: Table Tennis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
